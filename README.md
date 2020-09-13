@@ -1,5 +1,5 @@
 
-## Hola, I'm [Anurag Pandey!](http://anuragbhu.github.io/) 👋
+## :rainbow:  Hola, I'm [Anurag Pandey!](http://anuragbhu.github.io/) :eyes:👋
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbhu&label=Profile+Views&color=blue&style=plastic" alt="anuragbhu" /> </p>
@@ -24,11 +24,10 @@
   <img align="left" alt="Anurag's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
-<br/>
 
 
 - 🔭 I’m currently working on React and React-Native.
-- 🌱 I’m currently learning more about Blockchain.
+- 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on Open Source project.
 - 🤔 I’m looking for role in Software Engineer.
 - 💬 Ask me to code or program on the real world problem.
