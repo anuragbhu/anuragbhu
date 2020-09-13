@@ -28,7 +28,7 @@
 
 
 - 🔭 I’m currently working on React and React-Native.
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Blockchain.
 - 👯 I’m looking to collaborate on Open Source project.
 - 🤔 I’m looking for role in Software Engineer.
 - 💬 Ask me to code or program on the real world problem.
