@@ -21,6 +21,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&hide_border=true" />
+</details>
+
 
 <div align="center">
 
