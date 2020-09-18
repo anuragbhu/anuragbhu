@@ -1,29 +1,12 @@
-
 ## :rainbow:  Hola, I'm [Anurag Pandey!](http://anuragbhu.github.io/) :eyes:👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbhu&label=visitors&color=blue&style=plastic" alt="anuragbhu" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbhu&label=Profile+Views&color=blue&style=plastic" alt="anuragbhu" /> </p>
-
-
-<a href="https://www.linkedin.com/in/anuragbhu/">
-  <img align="left" alt="Anurag's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/anuragbhu">
-  <img align="left" alt="Anurag's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://t.me/anuragbhu">
-  <img align="left" alt="Anurag's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://www.instagram.com/anurag.bhu">
-  <img align="left" alt="Anurag's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.facebook.com/anuragbhu18">
-  <img align="left" alt="Anurag's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbhu/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://anuragbhu.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/anuragbhu18/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anurag.bhu/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/anuragbhu/)
 <br/>
 <br/>
 
