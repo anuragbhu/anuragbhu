@@ -12,12 +12,13 @@
 
 <img align="right" height="250" width="375" alt="" src="/coder.gif" />
 
-- 🔭 I’m currently working on React and React-Native.
-- 🌱 I’m currently learning more about BlockChain.
+- 🔭 I’m currently working with Node.js, Express.js, React and React-Native.
+- 🌱 I’m currently learning Full Stack Development & BlockChain.
+- 💻 Most of my projects are available on [Github](https://www.github.com/anuragbhu/)
 - 👯 I’m looking to collaborate on Open Source project.
 - 🤔 I’m looking for role in Software Engineer.
 - 💬 Ask me to code or program on the real world problem.
-- 📫 How to reach me: [Linkedin - @anuragbhu](https://www.linkedin.com/in/anuragbhu/)
+- 📫 How to reach me: <a href="anurag.bhumca18@gmail.com">anurag.bhumca18@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
 
