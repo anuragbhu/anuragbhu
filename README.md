@@ -26,10 +26,13 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&hide_border=true" />
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&hide_border=true" />
 </details>
 
+<details>	
+  <summary><b>🚀 Most Used Languages</b></summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbhu&theme=light&hide_langs_below=1" />
+</details>
 
 <div align="center">
 
