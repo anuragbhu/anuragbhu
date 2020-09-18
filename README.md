@@ -10,6 +10,8 @@
 <br/>
 <br/>
 
+<img align="right" height="250" width="375" alt="" src="/coder.gif" />
+
 - 🔭 I’m currently working on React and React-Native.
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on Open Source project.
