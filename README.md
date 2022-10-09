@@ -37,7 +37,7 @@
   <summary><b>🚀 Technical Skills</b></summary>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
