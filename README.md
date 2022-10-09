@@ -16,8 +16,7 @@
 - 🔭 Currently working on Java, Python, Spring Boot and Hibernate. 
 - 🌱 Learning more in Backend Development & Blockchain.
 - 💻 Most of my projects are available on [Github](https://www.github.com/anuragbhu/)
-- 👯 I’m looking to collaborate on Open Source project.
-- 🤔 I’m looking for role in Software Engineer.
+- 👯 Looking to collaborate on Open Source project.
 - 💬 Ask me to code or program on the real world problem.
 - 📫 How to reach me: <a href="anurag.bhumca18@gmail.com">anurag.bhumca18@gmail.com</a>
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
