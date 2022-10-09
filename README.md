@@ -5,19 +5,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbhu/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://anuragbhu.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anurag.bhu/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anuragbhu18)
+[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Anurag-Pandey-363)
 <br/>
 <br/>
 
 <img align="right" height="250" width="375" alt="" src="/coder.gif" />
 
-- 🔭 I’m currently working with Node.js, Express.js, React and React-Native.
-- 🌱 I’m currently learning Full Stack Development & BlockChain.
+- 😄 Pronouns: He/His
+- 🔭 Currently working on Java, Python, Spring Boot and Hibernate. 
+- 🌱 Learning more in Backend Development & Blockchain.
 - 💻 Most of my projects are available on [Github](https://www.github.com/anuragbhu/)
 - 👯 I’m looking to collaborate on Open Source project.
 - 🤔 I’m looking for role in Software Engineer.
 - 💬 Ask me to code or program on the real world problem.
 - 📫 How to reach me: <a href="anurag.bhumca18@gmail.com">anurag.bhumca18@gmail.com</a>
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
 
 ### Projects and Dev Stuffs:
