@@ -28,11 +28,6 @@
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&hide_border=true" />
 </details>
 
-<details>	
-  <summary><b>📊 Most Used Languages</b></summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbhu&theme=light&hide_langs_below=1&hide=html,css" />
-</details>
-
 <details>
   <summary><b>🚀 Technical Skills</b></summary>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
