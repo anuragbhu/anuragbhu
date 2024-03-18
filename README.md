@@ -13,11 +13,11 @@
 <img align="right" height="250" width="375" alt="" src="/coder.gif" />
 
 - 😄 Pronouns: He/His
-- 🔭 Currently working on Java, Python, Spring Boot and Hibernate. 
-- 🌱 Learning more in Backend Development & Blockchain.
+- 🔭 Currently working on Databricks, PySpark, GCP BigQuery, Snowflake, AWS, Airflow, DBT, and Looker. 
+- 🌱 Learning more about Data Engineering and Data Streaming.
 - 💻 Most of my projects are available on [Github](https://www.github.com/anuragbhu/)
 - 👯 Looking to collaborate on Open Source project.
-- 💬 Ask me to code or program on the real world problem.
+- 💬 Ask me to code or program on a real-world problem.
 - 📫 How to reach me: <a href="anurag.bhumca18@gmail.com">anurag.bhumca18@gmail.com</a>
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
 
