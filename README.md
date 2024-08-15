@@ -7,8 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anuragbhu_/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anuragbhu18)
 [![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Anurag-Pandey-363)
-<br/>
-<br/>
+<br/><br/>
 
 <img align="right" height="250" width="375" alt="" src="/coder.gif" />
 
@@ -25,7 +24,8 @@
 
 <details>	
   <summary><b>📈 GitHub Stats</b></summary>
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&theme=tokyonight" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhu&show_icons=true&theme=tokyonight" width="48%" align="left">
 </details>
 
 <details>
