@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbhu/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://anuragbhu.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anurag.bhu/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anuragbhu_/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anuragbhu18)
 [![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Anurag-Pandey-363)
 <br/>
@@ -13,10 +13,10 @@
 <img align="right" height="250" width="375" alt="" src="/coder.gif" />
 
 - 😄 Pronouns: He/His
-- 🔭 Currently working on Databricks, PySpark, GCP BigQuery, Snowflake, AWS, Airflow, DBT, and Looker. 
-- 🌱 Learning more about Data Engineering and Data Streaming.
+- 🔭 Currently working on Databricks, PySpark, Hadoop, GCP BigQuery, Snowflake, AWS, Airflow, DBT, and Looker. 
+- 🌱 Exploring data engineering, data streaming, big data, and data analytics.
 - 💻 Most of my projects are available on [Github](https://www.github.com/anuragbhu/)
-- 👯 Looking to collaborate on Open Source project.
+- 👯 Looking to collaborate on the freelancing project.
 - 💬 Ask me to code or program on a real-world problem.
 - 📫 How to reach me: <a href="anurag.bhumca18@gmail.com">anurag.bhumca18@gmail.com</a>
 - ⚡ Fun fact: I spend almost half a day on anything that tickles my curiosity and learn about it.
@@ -65,6 +65,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Agile_Methodologies-%230A0A0A.svg?style=flat&logo=agile&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-%230A0A0A.svg?style=flat&logo=api&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"> <br />
 </details>
 
