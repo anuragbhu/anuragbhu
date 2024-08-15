@@ -25,7 +25,7 @@
 <details>	
   <summary><b>📈 GitHub Stats</b></summary>
   <img  src="https://github-readme-stats.vercel.app/api?username=anuragbhu&show_icons=true&theme=tokyonight" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhu&show_icons=true&theme=tokyonight" width="48%" align="left">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhu&show_icons=true&theme=tokyonight" width="48%">
 </details>
 
 <details>
